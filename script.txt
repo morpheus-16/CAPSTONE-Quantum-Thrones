@@ -1,0 +1,1 @@
+py -3.11 c:/Users/anjof/sign_language/CAPSTONE-Quantum-Thrones/asl_interpreter.py
